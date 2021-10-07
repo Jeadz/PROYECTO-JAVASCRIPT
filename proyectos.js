@@ -1,2 +1,2 @@
 nombre = prompt("Tu nombre: ");
-alert("Ahora estas en la matrix " + nombre);
+console.log("Ahora estas en la matrix: " + nombre);
