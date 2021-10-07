@@ -12,7 +12,7 @@ nombre = prompt("Tu nombre: ");
 console.log("Ahora estas en la matrix: " + nombre);
 ```
 ## SALIDAD EJERCICIO 1 
-<img src= "img/salida1Ejer1.png" width="150"/>
-![Image text](img/salida1Ejer1.png)
-![Image text](img/salida2Ejer1.png)
+<img src= "img/salida1Ejer1.png" width="250"/>
+<img src= "img/salida2jer1.png" width="250"/>
+
 
